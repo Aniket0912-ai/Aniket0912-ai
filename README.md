@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aniket0912-ai
-- 👀 I’m interested in ... machine learning, data science,webdevlopment
-- 🌱 I’m currently learning ... data science
-- 💞️ I’m looking to collaborate on ... machine learning learner
+- 👀 I’m interested in ... Python,Java, Data Structue,Software Development,Full Stack Development,Data Science
+- 🌱 I’m currently learning ... Cloud Computing
+- 💞️ I’m looking to collaborate on ... Team project to Build new language With Specific feature
 - 📫 How to reach me ... mail me at aniketbrahmankar4@gmail.com
 
 <!---
